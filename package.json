@@ -1,0 +1,12 @@
+{
+  "name": "eaccrab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EACCRAB site: static, zero-dependency, output in dist/",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
